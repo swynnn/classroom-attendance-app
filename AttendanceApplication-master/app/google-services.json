@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836686251956",
+    "firebase_url": "https://mydigital-id-5e00c.firebaseio.com",
+    "project_id": "mydigital-id-5e00c",
+    "storage_bucket": "mydigital-id-5e00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836686251956:android:f810cdc79be74d69cb94e1",
+        "android_client_info": {
+          "package_name": "monash.fyp.attendanceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836686251956-ii0t8scpr7ueemn5b9l5ijdul20pj0d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "monash.fyp.attendanceapplication",
+            "certificate_hash": "66194284481320f61c0b96a59799504d837d51a1"
+          }
+        },
+        {
+          "client_id": "836686251956-hhc4mnlud0hg9fc002cgoefk3uq7f3en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTHS0lugUsQJ8zL7Wv1YWyCLGf8I-d_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836686251956-hhc4mnlud0hg9fc002cgoefk3uq7f3en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
